@@ -4,9 +4,9 @@ The application includes a basic video player on the frontend and a backend that
 
 FEATURES
 
-Video streaming in chunks
-Basic video player
-Backend using ffmpeg for video encoding and HLS streaming
+1) Video streaming in chunks.
+2) Basic video player.
+3) Backend using ffmpeg for video encoding and HLS streaming.
 
 PREREQIUSITES =>
 
@@ -17,6 +17,6 @@ ffmpeg set-up
 
 INTALLATION
 
-Clone the Repository - git clone https://github.com/Krishnadeol/stream_ffmeg
+Clone the Repository - git clone https://github.com/Krishnadeol/stream_ffmeg .
 
 Make sure ffmpeg is installed on your system. You can download and install it from the official website.
