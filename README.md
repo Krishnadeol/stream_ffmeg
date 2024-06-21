@@ -17,6 +17,6 @@ ffmpeg set-up
 
 INTALLATION
 
-Clone the Repository
+Clone the Repository - git clone https://github.com/Krishnadeol/stream_ffmeg
 
 Make sure ffmpeg is installed on your system. You can download and install it from the official website.
